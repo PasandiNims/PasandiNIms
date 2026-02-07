@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pasandinims&label=Profile%20views&color=0e75b6&style=flat" alt="pasandinims" /> </p> 
 
-###About Me
-
 ---
 - 🔭 Currently studying at **University of Westminster**
 
