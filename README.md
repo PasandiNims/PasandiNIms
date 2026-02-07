@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Pasandi Nimsara</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
----
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pasandinims&label=Profile%20views&color=0e75b6&style=flat" alt="pasandinims" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pasandinims&label=Profile%20views&color=0e75b6&style=flat" alt="pasandinims" /> </p> 
 
+###About Me
+
+---
 - 🔭 Currently studying at **University of Westminster**
 
 - 🤝 **Seeking guidance and support to enhance my projects**
