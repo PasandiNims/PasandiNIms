@@ -7,8 +7,6 @@
 
 - 🤝 **Seeking guidance and support to enhance my projects**
 
-- 💬 Ask me about **react,Java**
-
 - 📫 Reach me at **pasandinimsara19@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
